@@ -1,0 +1,21 @@
+﻿body
+{
+    margin:0px;
+    padding:0px;
+    overflow-x:hidden;
+}
+#outerDiv {
+    height: 250px;
+    width: 650px;
+    background-color: black;
+    margin-top: 200px;
+    position: absolute;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius:14px;
+}
