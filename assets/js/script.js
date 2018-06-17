@@ -1,3 +1,4 @@
+document.body.onload = time();
 setInterval(time, 1000);
 function time()
 {
